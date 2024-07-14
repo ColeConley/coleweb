@@ -38,8 +38,8 @@ In my free time, I enjoy working on Python scripts to automate identity manageme
 ## Experience
 
 - Deloitte - IAM Developer/Engineer
-- PwC - IAM Developer/Engineer
-- Atos - IAM Developer/Engineer
+- PwC - IAM Consultant
+- Atos - IAM Analyst & Service Desk Analyst II
 
 ## Certifications
 
